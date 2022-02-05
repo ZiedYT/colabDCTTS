@@ -33,7 +33,7 @@ class Hyperparams:
     attention_win_size = 3
 
     # data
-    data = "LJSpeech-1.0"
+    data = "/content/colabDCTTS/LJSpeech-1.0"
     # data = "train dataset/noel"
     test_data = 'harvard_sentences.txt'
     vocab = "PE abcdefghijklmnopqrstuvwxyz'.?" # P: Padding, E: EOS.
