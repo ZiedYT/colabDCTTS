@@ -42,7 +42,7 @@ class Hyperparams:
 
     # training scheme
     lr = 0.001 # Initial learning rate.
-    logdir = "/content/colabDCTTS/drive/MyDrive/colab/outdir"
+    logdir = "/content/drive/MyDrive/colab/outdir"
     
     sampledir = 'samples'
     B = 30 # batch size ##8 for 1 and 4 for 2
